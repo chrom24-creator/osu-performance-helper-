@@ -9,6 +9,7 @@
 [![Tauri](https://img.shields.io/badge/Framework-Tauri_v2-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)](https://tauri.app)
 [![React](https://img.shields.io/badge/Frontend-React_18_%2B_TypeScript-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZwuzTkEbKU)
 
 <br />
 
@@ -139,6 +140,12 @@ osu-performance-helper/
 
 * **Read-Only Operation:** The tool inspects local logs, public web endpoints, and standard `.osr` replay files. It does not inject into the osu! process memory or modify game code while playing.
 * **Pure Mathematical Modeling:** Accuracy, difficulty, and PP algorithms are calculated strictly according to standardized performance equations.
+
+---
+
+## Community
+
+Join the **[Discord Server](https://discord.gg/ZwuzTkEbKU)** for support, feature requests, bug reports, and to connect with other players using the tool.
 
 ---
 
